@@ -1,2 +1,1 @@
-# mail-client-forked
-Created with CodeSandbox
+# Mail Client Demo
